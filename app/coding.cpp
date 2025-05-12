@@ -88,6 +88,8 @@ void solve()
         }
     }
     cout<<'\n';
+
+    
 }
 signed main()
 {
